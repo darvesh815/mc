@@ -1878,9 +1878,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "TSK 2018 @ Today 8pm",
+          "title": "TSK 2018 (Theatre Print)",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"2018(1).html\" data-toolbar=\"-mbrBtnMove\">Coming soon</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ia601509.us.archive.org/14/items/Tsk2018/ThaanaaSerndhaKoottam2018HqDvdscrSinglePart.mp4\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1933,7 +1933,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Fill The Form To Get SMS When TSK And Sketch Get Updated",
+          "title": "Fill The Form To Get SMS When Sketch Get Updated",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
             "action": "feedback@moviesclub.co.in",
