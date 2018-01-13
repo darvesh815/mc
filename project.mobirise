@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MoviesClub",
-    "currentPage": "2018(1).html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,11 +13,13 @@
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": "on",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "<head>\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-108261653-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-108261653-1');\r\n</script>\r\n</head>",
-    "google-analytics": ""
+    "cookiesAlert": "",
+    "google-analytics": "<head>\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-108261653-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-108261653-1');\r\n</script>\r\n</head>",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -240,7 +242,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Balloon",
+          "title": "Balloon (Clear Print)",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://dl2.tamilprint.download//files/Tamil%202017%20Movies/Balloon%20(2017)%20HQ/Balloon%20(2017)%20HQDVDscr%20Full%20Movie/Balloon%20(2017)%20HQDVDscr%20Single%20Part/Balloon%20DVDscr%20Movie.mp4\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
