@@ -1878,9 +1878,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "TSK 2018 (Theatre Print)",
+          "title": "TSK (Clear Print With Clear Audio)",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ia601509.us.archive.org/14/items/Tsk2018/ThaanaaSerndhaKoottam2018HqDvdscrSinglePart.mp4\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://i24.indiworlds.com:182/d/waifcqna7a4yzoixvacvbzntzolboqdowkpflimtnzuqj4jhwh3mtlzo/Thaanaa%20Serndha%20Koottam%20(2017)%20HQ%20Real%20DVDScr%20Line%20Audio.mp4\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1909,70 +1909,15 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Sketch 2018 @ Today 8pm",
+          "title": "Sketch (Clear Print With Line Audio)",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"2018(1).html\" data-toolbar=\"-mbrBtnMove\">Coming soon</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://i28.indiworlds.com:182/d/zqimmtva7a4yzoixvacub3xvqf4s3rleoci2lln46ihxsiijvvypkbqj/Sketch%20(2018)%20Tamil%20Real%20HQ%20DVDScr%20(Line%20Audio).mp4\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-29"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Fill The Form To Get SMS When Sketch Get Updated",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "form": {
-            "action": "feedback@moviesclub.co.in",
-            "alerts": {
-              "success": "Thanks for filling out form! You Will Get A \"SMS\" When TSK And Sketch Is Updated"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": false,
-                "title": "Email",
-                "customTitle": ""
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-2a",
-          "_styles": {
-            ".btn": {
-              "font-size": "20px"
-            }
-          }
         }
       ]
     }
