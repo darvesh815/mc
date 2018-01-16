@@ -162,7 +162,7 @@
           },
           "title": "Pre Made Blocks",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FB Login</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"&lt;div class=&quot;fb-login-button&quot; data-max-rows=&quot;1&quot; data-size=&quot;large&quot; data-button-type=&quot;login_with&quot; data-show-faces=&quot;true&quot; data-auto-logout-link=&quot;true&quot; data-use-continue-as=&quot;true&quot;&gt;&lt;/div&gt;\" data-toolbar=\"-mbrBtnMove\">FB Login</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
