@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 83,
+    "uniqCompNum": 84,
     "versionPublish": "4.3.4",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -17,7 +17,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "<body>\r\n<script>\r\n  window.fbAsyncInit = function() {\r\n    FB.init({\r\n      appId      : '{828855613960763}',\r\n      cookie     : true,\r\n      xfbml      : true,\r\n      version    : '{v2.11}'\r\n    });\r\n      \r\n    FB.AppEvents.logPageView();   \r\n      \r\n  };\r\n\r\n  (function(d, s, id){\r\n     var js, fjs = d.getElementsByTagName(s)[0];\r\n     if (d.getElementById(id)) {return;}\r\n     js = d.createElement(s); js.id = id;\r\n     js.src = \"https://connect.facebook.net/en_US/sdk.js\";\r\n     fjs.parentNode.insertBefore(js, fjs);\r\n   }(document, 'script', 'facebook-jssdk'));\r\n</script>",
+    "google-analytics": "<body>\r\n<script>\r\n  window.fbAsyncInit = function() {\r\n    FB.init({\r\n      appId      : '{828855613960763}',\r\n      cookie     : true,\r\n      xfbml      : true,\r\n      version    : '{v2.11}'\r\n    });\r\n      \r\n    FB.AppEvents.logPageView();   \r\n      \r\n  };\r\n\r\n  (function(d, s, id){\r\n     var js, fjs = d.getElementsByTagName(s)[0];\r\n     if (d.getElementById(id)) {return;}\r\n     js = d.createElement(s); js.id = id;\r\n     js.src = \"https://connect.facebook.net/en_US/sdk.js\";\r\n     fjs.parentNode.insertBefore(js, fjs);\r\n   }(document, 'script', 'facebook-jssdk'));\r\n</script>\r\n<body><div id=\"fb-root\"></div>\r\n<script>(function(d, s, id) {\r\n  var js, fjs = d.getElementsByTagName(s)[0];\r\n  if (d.getElementById(id)) return;\r\n  js = d.createElement(s); js.id = id;\r\n  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.11&appId=828855613960763';\r\n  fjs.parentNode.insertBefore(js, fjs);\r\n}(document, 'script', 'facebook-jssdk'));</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -49,7 +49,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -138,6 +138,37 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-26"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pre Made Blocks",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FB Login</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2b"
         }
       ]
     },
@@ -164,7 +195,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -856,7 +887,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1424,7 +1455,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1682,7 +1713,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1833,7 +1864,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://tawk.to/chat/5a4a2906d7591465c7067663/1c3katpi7/?$_tawk_popout=true\">Chat With Us</a></li>",
           "logo": {
             "image": {
               "active": true,
