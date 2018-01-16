@@ -138,37 +138,6 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-26"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#FFF8E0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Pre Made Blocks",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"&lt;div class=&quot;fb-login-button&quot; data-max-rows=&quot;1&quot; data-size=&quot;large&quot; data-button-type=&quot;login_with&quot; data-show-faces=&quot;true&quot; data-auto-logout-link=&quot;true&quot; data-use-continue-as=&quot;true&quot;&gt;&lt;/div&gt;\" data-toolbar=\"-mbrBtnMove\">FB Login</a> ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-2b"
         }
       ]
     },
