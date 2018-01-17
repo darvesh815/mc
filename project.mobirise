@@ -16,7 +16,7 @@
     "robotsSwitcher": "",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "<head>\r\n<script type=\"text/javascript\" language=\"javascript\">\r\n      var aax_size='300x250';\r\n      var aax_pubname = 'moviesclub815-21';\r\n      var aax_src='302';\r\n    </script>\r\n    <script type=\"text/javascript\" language=\"javascript\" src=\"http://c.amazon-adsystem.com/aax2/assoc.js\"></script>",
     "google-analytics": "<body>\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-108261653-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-108261653-1');\r\n</script>\r\n",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
